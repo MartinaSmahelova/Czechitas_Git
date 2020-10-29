@@ -1,1 +1,2 @@
-Hello, Git!
+git statusHello, Git!
+Hello from br1!  
