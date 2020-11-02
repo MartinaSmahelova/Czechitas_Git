@@ -1,4 +1,1 @@
-Hello, Git!  
-Hello from br1!  
-Hello from br2!  
-Hello from my notebook!  
+bude fungovat prikaz na zmenu commit massage?
